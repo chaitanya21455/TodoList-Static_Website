@@ -1,6 +1,7 @@
 # TodoList-Static_Website
 
 Resources
+
 Use this background image,
 
 URL: https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png
